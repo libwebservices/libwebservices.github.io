@@ -1,5 +1,5 @@
 ---
-title: My page
+title: Conference Tweets
 permalink: /tweets
 layout: default
 ---
