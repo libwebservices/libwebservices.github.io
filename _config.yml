@@ -1,4 +1,4 @@
-title: WebConf Jekyll Demo
+title: WebCon Jekyll Demo and Bibliography
 email: libwebservices@miamioh.edu
 description: Demonstrate a few features of the Jekyll Static Site Generator
 baseurl: ''
@@ -7,3 +7,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-twitter-plugin
+
+jekyll_admin:
+  homepage: "pages"
