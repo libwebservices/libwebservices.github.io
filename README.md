@@ -8,5 +8,7 @@ git commit -m YOUR COMMIT MESSAGE
 git subtree push --prefix _site origin gh-pages
 ```
 
+`:wq` for Linux file save.
+
 Demo:
 https://libwebservices.github.io/tweets
