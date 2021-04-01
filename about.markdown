@@ -8,7 +8,8 @@ Here is a curated list of resources to get you going on using Static Site Genera
 ## Articles
 * [What is the Jamstack?](http://)
 * [Questions to ask before choosing a static site generator](https://www.ample.co/blog/questions-to-ask-before-choosing-a-static-site-generator)
-* [Smashing Magazine newsletter issue on the Jamstack](https://mailchi.mp/smashingmagazine/smashing-newsletter-293-jamstack-headless-static-site-generators)
+* [Smashing Magazine newsletter issue on the Jamstack](https://mailchi.mp/smashingmagazine/smashing-newsletter-293-jamstack-headless-static-site-generators) 
+* [Our Google Sheet outlining our choices](https://docs.google.com/spreadsheets/d/1gkAqEPK-7lSijFhsh0xdPb3e2cZjxTsQ63yuBcBDxUo/edit?usp=sharing)
 ## Clearing house sites
 * [Jamstack.org](https://jamstack.org/)
 * [The New Dynamic](https://www.tnd.dev/)
@@ -18,4 +19,13 @@ There are dozens of SSG front ends. Here are select ones that are open source or
 * [Jekyll Admin](https://jekyll.github.io/jekyll-admin/)
 * [SiteLeaf](https://www.siteleaf.com/)
 * [NetlifyCMS]()
-*
+* [Forestry.io]()
+## Popular Static Site Generators
+* [Jekyll]()
+* [Gatsby]()
+* [Hugo]()
+* [11ty]()
+* [Hugo]()
+
+## Tutorials
+* [Getting Started with Markdown](https://www.markdownguide.org/getting-started/)
