@@ -1,17 +1,11 @@
----
-title: Bibliography
-layout: page
-permalink: "/about/"
----
-
 Here is a curated list of resources to get you going on using Static Site Generators and the JAMstack model of site development.
+## Acronyms and terminology
 
-**Acronyms**
+* CMS is content management system
+* CDN is content delivery network
+* SSG is static site generator
 
-* CMS is Content Management System
-* CDN is Content Delivery Network
-
-## Learn
+## Articles and Learning Resources
 
 * [An introduction to the JAMstack: the architecture of the modern web](https://www.freecodecamp.org/news/an-introduction-to-the-jamstack-the-architecture-of-the-modern-web-c4a0d128d9ca/)
 * [What is the Jamstack?](http://)
@@ -20,9 +14,8 @@ Here is a curated list of resources to get you going on using Static Site Genera
 * [Smashing Magazine newsletter issue on the Jamstack](https://mailchi.mp/smashingmagazine/smashing-newsletter-293-jamstack-headless-static-site-generators)
 * [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages): From *The Programming Historian*.
 * [Get Started with Markdown](https://www.markdownguide.org/getting-started/): Markdown is a popular content markup syntax that is quicker and more convenient to use than hard coding HTML for your pages.
-
-* [Our Google Sheet outlining our choices](https://docs.google.com/spreadsheets/d/1gkAqEPK-7lSijFhsh0xdPb3e2cZjxTsQ63yuBcBDxUo/edit?usp=sharing)
-* [Jamstack Resources](https://jamstack.org/resources/)
+* [Going Headless: Use Cases And What It’s Good For](https://www.smashingmagazine.com/2021/03/going-headless-use-cases/)
+* [Jamstack Learning Resources](https://jamstack.org/resources/)
 * [Getting Started with Markdown](https://www.markdownguide.org/getting-started/)
 * [Using Static Site Generators for Scholarly Publications and Open Educational Resources](https://journal.code4lib.org/articles/13861): from the Code4Lib Journal
 
@@ -50,21 +43,22 @@ There are dozens of SSG front ends. Here are select ones that are open source or
 * [Forestry.io]()
 ## Academic projects using SSGs
 
-* [Programs in Digital Humanities](https://digitalhumanities.mit.edu/): "Advancing the humanities with code, communication, and community" from MIT. 
+* [Programs in Digital Humanities](https://digitalhumanities.mit.edu/): "Advancing the humanities with code, communication, and community" from MIT.
 * Universities across the nation support using SSGs: [UC Berkeley](https://www.ocf.berkeley.edu/docs/services/web/jekyll/),  [U at Buffalo](https://research.lib.buffalo.edu/dh/share), [Rutgers](https://dh.rutgers.edu/event/hugo-websites-1/), and [Jekyll Academic](https://ncsu-libraries.github.io/jekyll-academic-docs/) from North Carolina State.
 * [How we made the Mid-Michigan website faster](https://www.midmich.edu/community/about-mmcc/college-governance/board-trustees/midmonth/midmonth-2019/midmonth-march-2019/how-we-made-mid-web-site-front-page-faster): Mid-Michigan College redesigned in 2019 using Gatsby.
 * [Riggleman Computational Soft Matter Lab](http://rrgroup.seas.upenn.edu/): This University of Pennsylvania lab develops and implements advanced molecular modeling techniques to study polymers and glassy materials.
 
-## Static Site Hosting
+## Free static site hosting options
 
 * [Github Pages](https://pages.github.com/)
 * [Surge.sh](https://surge.sh/)
+* [Netlify](https://netlify.com)
+
 ## Sample SSG-built websites
 
 * [Virginia.gov](https://www.virginia.gov/) using Hugo
-* [Visit Paris](https://www.visitparisregion.com/en) official visitors guide created using Hugo
+* [Vote.gov](https://vote.gov/) using Hugo
+* [Visit Paris](https://www.visitparisregion.com/en) is the region's official visitors guide. Created using Hugo.
 * [United Nations World Statistics Day ](https://worldstatisticsday.org/)
-* [Code4Lib National Conference](https://2021.code4lib.org/)
-* [Freedom of Information Act website](https://foia.gov/) using Jekyll
-* [The A11y Project](https://www.a11yproject.com/)
+* [Code4Lib National Conference](https://2021.code4lib.org/) was created using Jekyll.
 * [Smashing Magazine](https://www.smashingmagazine.com/) is a popular site for web dev learning that uses Hugo. Here is the [story of their switch to an SSG](https://www.smashingmagazine.com/2017/03/a-little-surprise-is-waiting-for-you-here/).
