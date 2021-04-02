@@ -1,17 +1,17 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 
 {% include head.html %}
 
 <body>
 
-  <!-- a class="visually-hidden visually-hidden-focusable" href="#main-content">Skip to main content</a-->
+  <a class="visually-hidden visually-hidden-focusable" href="#main-content">Skip to main content</a>
 
 {% include header.html %}
 
   <div class="container mt-2">
     <div class="row">
-      <div class="col-12">
+      <div class="col-12" id="main-content">
 
         {{ content }}
 
