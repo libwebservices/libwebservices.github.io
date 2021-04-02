@@ -18,6 +18,9 @@ Here is a curated list of resources to get you going on using Static Site Genera
 * [Jamstack Learning Resources](https://jamstack.org/resources/)
 * [Getting Started with Markdown](https://www.markdownguide.org/getting-started/)
 * [Using Static Site Generators for Scholarly Publications and Open Educational Resources](https://journal.code4lib.org/articles/13861): from the Code4Lib Journal
+* [Questions to ask before choosing a static site generator](https://www.ample.co/blog/questions-to-ask-before-choosing-a-static-site-generator)
+* [Setting up a Github Pages site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
+* [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
 
 ## Tools databases
 
@@ -25,12 +28,13 @@ These sites consolidate all the resources and offer multiple methods of narrowin
 
 * [Jamstack.org](https://jamstack.org/): Sponsored by Netlify, a static-site CMS and CDN provider, this site's tools directory focuses on SSGs and CMS products. Also includes videos and learning materials.
 * [The New Dynamic](https://www.tnd.dev/): This directory looks at the wider ecosystem and includes critical SSG integrations such as e-commerce and comment handling tools.
+
 ## Popular Static Site Generators
 
 * [Jekyll](https://jekyllrb.com/): Written in Ruby, this is the godfather of the Jamstack movement.
 * [Gatsby](https://www.gatsbyjs.com/): React-based SSG written to support wide-range of site types.
 * [Hugo](https://gohugo.io/): Built for speed. Written in Go.
-* [11ty](https://www.11ty.dev/): Eleventy was created as a simpler Javascript-based alternative to Jekyll. Supports 11 templating languages.
+* [11ty](https://www.11ty.dev/): Eleventy was created as a simpler Javascript-based alternative to Jekyll. Supports 11 templating languages. Not sure what the possom on a balloon signifies.
 * [Pelican](https://blog.getpelican.com/): written in Python.
 
 ## Popular Graphical Front Ends
