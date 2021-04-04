@@ -1,9 +1,4 @@
 Here is a curated list of resources to get you going on using Static Site Generators and the JAMstack model of site development.
-## Acronyms and terminology
-
-* CMS is content management system
-* CDN is content delivery network
-* SSG is static site generator
 
 ## Learn
 
@@ -14,15 +9,15 @@ Here is a curated list of resources to get you going on using Static Site Genera
 * [Comparing SSG build times](https://css-tricks.com/comparing-static-site-generator-build-times/)
 * [Going Headless: Use Cases And What It’s Good For](https://www.smashingmagazine.com/2021/03/going-headless-use-cases/)
 
-### SSGs in academia
-
-* [Using Static Site Generators for Scholarly Publications and Open Educational Resources](https://journal.code4lib.org/articles/13861): from the *Code4Lib Journal*
-* [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages): From *The Programming Historian*.
-
 ### Learning Resource repositories
 
 * [Jamstack Conference](https://jamstackconf.com/): Free videos repository of latest conferences.
 * [Jamstack Learning Resources](https://jamstack.org/resources/)
+
+### SSGs in academia
+
+* [Using Static Site Generators for Scholarly Publications and Open Educational Resources](https://journal.code4lib.org/articles/13861): from the *Code4Lib Journal*
+* [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages): From *The Programming Historian*.
 
 ### Tutorials
 
