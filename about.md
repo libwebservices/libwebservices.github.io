@@ -1,3 +1,10 @@
+---
+title: Bibliography
+layout: page
+date: '2021-04-04 12:17:17 -0400'
+categories:
+- jekyll
+---
 Here is a curated list of resources to get you going on using Static Site Generators and the JAMstack model of site development.
 
 ## Learn
@@ -48,7 +55,7 @@ There are dozens of SSG front ends. Here are select ones that are open source or
 * [Jekyll Admin](https://jekyll.github.io/jekyll-admin/)
 * [SiteLeaf](https://www.siteleaf.com/)
 * [NetlifyCMS](https://www.netlifycms.org/) is an open source tool developed to compliment their [Netlify CDN hosting](https://www.netlify.com/).
-* [Forestry.io]()
+* [Forestry.io](https://forestry.io)
 
 ### Free SSG hosting
 
@@ -72,4 +79,4 @@ There are dozens of SSG front ends. Here are select ones that are open source or
 * [Visit Paris](https://www.visitparisregion.com/en) is the region's official visitors guide. Created using Hugo.
 * [United Nations World Statistics Day](https://worldstatisticsday.org/)
 * [Code4Lib National Conference](https://2021.code4lib.org/) was created using Jekyll.
-* [Smashing Magazine](https://www.smashingmagazine.com/) is a popular site for web dev learning that uses Hugo. Here is the [story of their switch to an SSG](https://www.smashingmagazine.com/2017/03/a-little-surprise-is-waiting-for-you-here/).
+* [Smashing Magazine](https://www.smashingmagazine.com/) is a popular site for web dev learning that uses Hugo. Here is the [story of their switch to an SSG](https://www.smashingmagazine.com/2017/03/a-little-surprise-is-waiting-for-you-here/); and an early [article about lessons learned](https://www.smashingmagazine.com/2016/08/using-a-static-site-generator-at-scale-lessons-learned/).
