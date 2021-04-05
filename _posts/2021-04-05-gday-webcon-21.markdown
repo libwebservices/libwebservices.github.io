@@ -1,5 +1,6 @@
 ---
-title: G'day WebCon 21!
+title: "G'day WebCon 21! Free Yourself \nFrom the Database: Developing with Static
+  Site Generators"
 layout: post
 date: '2021-03-30 12:17:17 -0400'
 categories:
@@ -7,9 +8,11 @@ categories:
 - update
 ---
 
+Hi everyone! This is a quick sample Jekyll site and GitHub repository with resources to support our presentation. If you have any questions, please feel free to contact us at [libwebservices@miamioh.edu](mailto:libwebservices@miamioh.edu)
 ## Support Links
 * [Slides with Speakers' notes](https://www.canva.com/design/DAEZIz9CqoI/AWzgKJI2YN9Q04A0JJJxUg/view?utm_content=DAEZIz9CqoI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 * [Bibliography](/about/): Helpful articles, learning resources, sample sites, and directories of tools.
+* [Example of dynamic content in a static site generator](/tweets): A show-and-tell where we've embedded WebCon conference tweets into a Jekyll page.
 * [Our team's decision matrix](https://bit.ly/31Bw7wd): This spreadsheet makes more sense in the context of our conversations of the time, but it does provide some of the variables we considered as we moved forward with our plans.
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
