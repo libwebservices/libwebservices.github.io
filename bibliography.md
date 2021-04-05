@@ -1,6 +1,6 @@
 ---
 title: Bibliography
-permalink: /bibliography/
+permalink: /bibliography
 layout: page
 date: '2021-04-04 12:17:17 -0400'
 categories:
