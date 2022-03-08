@@ -1,5 +1,5 @@
 ---
-title: Conference Tweets
+title: Wordle Tweets
 permalink: /tweets
 layout: default
 ---
