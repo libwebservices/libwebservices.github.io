@@ -15,7 +15,7 @@ Hi everyone! This is a quick sample Jekyll site and GitHub repository with resou
 
 - [Slides with Speakers' notes](https://www.canva.com/design/DAEZIz9CqoI/AWzgKJI2YN9Q04A0JJJxUg/view?utm_content=DAEZIz9CqoI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 - [Bibliography](/bibliography): Helpful articles, learning resources, sample sites, and directories of tools.
-- [Example of dynamic content in a static site generator](/tweets): A show-and-tell where we've embedded WebCon conference tweets into a Jekyll page.
+- [Example of dynamic content in a static site generator](/tweets): A show-and-tell where we've embedded WebCon Tweets into a Jekyll page.
 - [Our team's decision matrix](https://bit.ly/31Bw7wd): This spreadsheet makes more sense in the context of our conversations of the time, but it does provide some of the variables we considered as we moved forward with our plans.
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;

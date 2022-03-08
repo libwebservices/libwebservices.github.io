@@ -1,7 +1,6 @@
 ---
-title:
-  "G'day WebCon 21!"
-subtitle: "Free Yourself From the Database: Developing with Static Site Generators" 
+title: "G'day WebCon 21!"
+subtitle: 'Free Yourself From the Database: Developing with Static Site Generators'
 layout: post
 date: '2021-03-30 12:17:17 -0400'
 categories:
@@ -15,7 +14,7 @@ Hi everyone! This is a quick sample Jekyll site and GitHub repository with resou
 
 - [Slides with Speakers' notes](https://www.canva.com/design/DAEZIz9CqoI/AWzgKJI2YN9Q04A0JJJxUg/view?utm_content=DAEZIz9CqoI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 - [Bibliography](/bibliography): Helpful articles, learning resources, sample sites, and directories of tools.
-- [Example of dynamic content in a static site generator](/tweets): A show-and-tell where we've embedded WebCon conference tweets into a Jekyll page.
+- [Example of dynamic content in a static site generator](/tweets): A show-and-tell where we've embedded WebCon Tweets into a Jekyll page.
 - [Our team's decision matrix](https://bit.ly/31Bw7wd): This spreadsheet makes more sense in the context of our conversations of the time, but it does provide some of the variables we considered as we moved forward with our plans.
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
@@ -26,4 +25,3 @@ Hi everyone! This is a quick sample Jekyll site and GitHub repository with resou
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEZIz9CqoI&#x2F;view?utm_content=DAEZIz9CqoI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Free Yourself From the Database</a> by web services team from Miami University Libraries
-
